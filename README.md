@@ -39,6 +39,10 @@ Alongside the prediction, the app also provides actionable suggestions based on 
 
 ---
 
+![Demo](assets/unBiasML_demo.gif)
+
+---
+
 ## 📌 Future Enhancements
 
 - [ ] Resume upload (PDF parsing and auto-fill)  
