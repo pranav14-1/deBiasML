@@ -23,7 +23,7 @@ Thumbs.db
 *.xlsx
 *.xls
 
-# Pickle files (optional — only if you're not sharing trained model)
+# Pickle files 
 *.pkl
 
 # Logs and output
