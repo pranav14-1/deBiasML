@@ -1,4 +1,34 @@
+# Python bytecode and caches
 __pycache__/
-*.pyc
+*.py[cod]
+*.so
+
+# Environment files
 .env
+*.env
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter and IPython
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# CSV or dataset files
 *.csv
+*.xlsx
+*.xls
+
+# Pickle files (optional — only if you're not sharing trained model)
+*.pkl
+
+# Logs and output
+*.log
+
+# Streamlit generated files
+.streamlit/config.toml
+.streamlit/secrets.toml
