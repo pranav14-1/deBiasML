@@ -5,7 +5,7 @@
 This project simulates how companies might use data to evaluate resumes. It allows users to input resume-related details like skills, education background, experience type, and target company, then predicts shortlisting probability using a trained machine learning model.  
 Alongside the prediction, the app also provides actionable suggestions based on feature importance — helping users understand what could make their profile stronger.
 
-> ⚡ Built as a hands-on learning project to explore real-world machine learning workflows and MLOps integration with simple UI deployment.
+> ⚡ Built as a hands-on learning project to explore real-world machine learning workflows with simple UI deployment.
 
 ---
 
