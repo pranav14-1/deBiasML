@@ -39,6 +39,7 @@ Alongside the prediction, the app also provides actionable suggestions based on 
 
 ---
 
+## Demo
 ![Demo](assets/unBiasML_demo.gif)
 
 ---
